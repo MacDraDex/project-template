@@ -51,6 +51,7 @@ limit 3
 
 ## References
 1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database.
-2. [Irish Political Map](http://irishpoliticalmaps.blogspot.ie/2015/06/confirmed-candidates-for-next-general_3.html), constituencies + candidates 
-3. [Neo4J Docs](http://neo4j.com/docs/stable/query-load-csv.html) - How to load a csv file
-4. [Wikipedia List of Parliamentary constituencies of Republic of Ireland](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland)
+2. [Node with most relationships](https://groups.google.com/forum/#!topic/neo4j/lPo7F3o9ijE)
+3. [Irish Political Map](http://irishpoliticalmaps.blogspot.ie/2015/06/confirmed-candidates-for-next-general_3.html), constituencies + candidates 
+4. [Neo4J Docs](http://neo4j.com/docs/stable/query-load-csv.html) - How to load a csv file
+5. [Wikipedia List of Parliamentary constituencies of Republic of Ireland](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland)
