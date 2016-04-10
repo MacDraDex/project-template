@@ -44,9 +44,8 @@ RETURN cons
 This query retreives the three constituencies with the most candidates 
 ```cypher
 start cons=node(*)
-WHERE(cons:Constituency)
-return cons, length(cons--()) as RUNIN
-order by RUNIN desc
+return cons, length(cons--()) as RUN_IN
+order by RUN_IN desc
 limit 3
 ```
 
