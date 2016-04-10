@@ -24,31 +24,34 @@ Summarise your three queries here.
 Then explain them one by one in the following sections.
 
 #### Query one title
-This query retreives the Bacon number of an actor...
+This query retrives all the male candidates
 ```cypher
-MATCH
-	(Bacon)
-RETURN
-	Bacon;
+start candidate=node(*)
+match candidate
+where has(candidate.gender) AND candidate.gender = 'Male'
+return candidate
 ```
 
 #### Query two title
-This query retreives the Bacon number of an actor...
+This query retreives the constituencies with the number of seats 
 ```cypher
-MATCH
-	(Bacon)
-RETURN
-	Bacon;
+MATCH (cons:Constituency)
+WHERE cons.seats='3'
+RETURN cons
 ```
 
 #### Query three title
-This query retreives the Bacon number of an actor...
+This query retreives the three constituencies with the most candidates 
 ```cypher
-MATCH
-	(Bacon)
-RETURN
-	Bacon;
+start cons=node(*)
+WHERE(cons:Constituency)
+return cons, length(cons--()) as RUNIN
+order by RUNIN desc
+limit 3
 ```
 
 ## References
 1. [Neo4J website](http://neo4j.com/), the website of the Neo4j database.
+2. [Irish Political Map](http://irishpoliticalmaps.blogspot.ie/2015/06/confirmed-candidates-for-next-general_3.html), constituencies + candidates 
+3. [Neo4J Docs](http://neo4j.com/docs/stable/query-load-csv.html) - How to load a csv file
+4. [Wikipedia List of Parliamentary constituencies of Republic of Ireland](https://en.wikipedia.org/wiki/Parliamentary_constituencies_in_the_Republic_of_Ireland)
