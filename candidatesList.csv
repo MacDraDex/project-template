@@ -1,0 +1,484 @@
+Firstname,Lastname,Party,Constituency,Gender
+Enda,Kenny,Fine Gael,Mayo,Male
+Maria ,Bailey,Fine Gael,Dun Laoghaire,Female
+Sean,Barrett,Fine Gael,Dun Laoghaire,Male
+Pat ,Breen,Fine Gael,Clare,Male
+Colm,Brophy,Fine Gael,Dublin South West,Male
+Richard ,Bruton,Fine Gael,Dublin Bay North,Male
+Peter,Burke,Fine Gael,Longford-Westmeath,Male
+Catherine,Byrne,Fine Gael,Dublin South Central,Female
+Ciaran,Cannon,Fine Gael,Galway East,Male
+Joe,Carey,Fine Gael,Clare,Male
+Marcella,Corcoran - Kennedy,Fine Gael,Offaly,Female
+Simon,Coveney,Fine Gael,Cork South Central,Male
+Michael,Creed,Fine Gael,Cork North West,Male
+Michael,D'Arcy,Fine Gael,Wexford,Male
+Jim,Daly,Fine Gael,Cork South West,Male
+John ,Deasy,Fine Gael,Waterford,Male
+Pat ,Deering,Fine Gael,Carlow-Kilkenny,Male
+Regina,Doherty,Fine Gael,Meath East,Female
+Paschal,Donohoe,Fine Gael,Dublin Central,Male
+Andrew,Doyle,Fine Gael,Wicklow,Male
+Bernard,Durkan,Fine Gael,Kildare North,Male
+Damien,English,Fine Gael,Meath West,Male
+Alan,Farrell,Fine Gael,Dublin Fingal,Male
+Frances,Fitzgerald,Fine Gael,Dublin Mid West,Male
+Peter,Fitzpatrick,Fine Gael,Louth,Male
+Charlie,Flanagan,Fine Gael,Laois,Male
+Brendan,Griffin,Fine Gael,Kerry,Male
+Simon,Harris,Fine Gael,Wicklow,Male
+Martin,Heydon,Fine Gael,Kildare South,Male
+Heather,Humphreys,Fine Gael,Cavan-Monaghan,Female
+Paul,Kehoe,Fine Gael,Wexford,Male
+Sean,Kyne,Fine Gael,Galway West,Male
+Helen,McEntee,Fine Gael,Meath East,Female
+Joe,McHugh,Fine Gael,Donegal,Male
+Tony,McLoughlin,Fine Gael,Sligo-Leitrim,Male
+Mary,Mitchell - O'Connor,Fine Gael,Dun Laoghaire,Female
+Dara,Murphy,Fine Gael,Cork North Central,Male
+Eoghan,Murphy,Fine Gael,Dublin Bay South,Male
+Hildegarde,Naughton,Fine Gael,Galway West,Female
+Michael ,Noonan,Fine Gael,Limerick City,Male
+Patrick,O'Donovan,Fine Gael,Limerick City,Male
+Fergus,O'Dowd,Fine Gael,Louth,Male
+John Paul,Phelan,Fine Gael,Carlow-Kilkenny,Male
+Michael,Ring,Fine Gael,Mayo,Male
+Noel,Rock,Fine Gael,Dublin North West,Male
+David,Stanton,Fine Gael,Cork East,Male
+Leo,Varadkar,Fine Gael,Dublin West,Male
+Seamus,Healy,WUAG,Tipperary,Male
+Bobby,Aylward,Fianna Fail,Carlow-Kilkenny,Male
+John,McGuinness,Fianna Fail,Carlow-Kilkenny,Male
+Jennifer,Murane-O'Connor,Fianna Fail,Carlow-Kilkenny,Female
+Mike,Durkan,Fianna Fail,Cavan-Monaghan,Male
+Brendan,Smith,Fianna Fail,Cavan-Monaghan,Male
+Niamh,Smyth,Fianna Fail,Cavan-Monaghan,Female
+Ciara,Colleran-Molloy,Fianna Fail,Clare,Female
+Timmy,Dooley,Fianna Fail,Clare,Male
+Michael,McDonagh,Fianna Fail,Clare,Male
+Barbara,Ahern,Fianna Fail,Cork East,Female
+Kevin,O'Keeffe,Fianna Fail,Cork East,Male
+Billy ,Kelleher,Fianna Fail,Cork North Central,Male
+Aindrias,Moynihan,Fianna Fail,Cork North West,Male
+Michael,Moynihan,Fianna Fail,Cork North West,Male
+Michael,Martin,Fianna Fail,Cork South Central,Male
+Michael,McGrath,Fianna Fail,Cork South Central,Male
+Margaret,Murphy-O'Mahony,Fianna Fail,Cork South West,Female
+Path,Gallagher,Fianna Fail,Donegal,Male
+Charlie,McConalogue,Fianna Fail,Donegal,Male
+John,Curran,Fianna Fail,Dublin Mid West,Male
+Lorraine,Clifford,Fianna Fail,Dublin Fingal,Female
+Darragh,O'Brien,Fianna Fail,Dublin Fingal,Male
+Mary,White,Fianna Fail,Dublin Rathdown,Female
+Paul,McAuliffe,Fianna Fail,Dublin North West,Male
+Sean,Haughey,Fianna Fail,Dublin Bay North,Male
+Deidre,Heney,Fianna Fail,Dublin Bay North,Female
+Jim,O'Callaghan,Fianna Fail,Dublin Bay South,Male
+Mary,Fitzpatrick,Fianna Fail,Dublin Central,Female
+Catherine,Ardagh,Fianna Fail,Dublin South Central,Female
+John,Lahart,Fianna Fail,Dublin South West,Male
+Jack,Chambers,Fianna Fail,Dublin West,Male
+Cormac,Devlin,Fianna Fail,Dun Laoghaire,Male
+Mary,Hanafin,Fianna Fail,Dun Laoghaire,Female
+Colm,Keaveney,Fianna Fail,Galway East,Male
+Anne,Rabbitte,Fianna Fail,Galway East,Female
+John,Connolly,Fianna Fail,Galway West,Male
+Mary,Hoade,Fianna Fail,Galway West,Female
+Eamon,O Cuiv,Fianna Fail,Galway West,Male
+John,Brassill,Fianna Fail,Kerry,Male
+Norma,Moriarty,Fianna Fail,Kerry,Female
+James,Lawless,Fianna Fail,Kildare North,Male
+Frank,O'Rourke,Fianna Fail,Kildare North,Male
+Sean,O'Fearghail,Fianna Fail,Kildare South,Male
+Fiona,O'Loughlin,Fianna Fail,Kildare South,Female
+Sean,Fleming,Fianna Fail,Laois,Male
+Willie,O'Dea,Fianna Fail,Limerick City,Male
+Niall,Collins,Fianna Fail,Limerick City,Male
+Connie,Gerrity-Quinn,Fianna Fail,Longford-Westmeath,Female
+Robert,Troy,Fianna Fail,Longford-Westmeath,Male
+Declan,Breathnach,Fianna Fail,Louth,Male
+Emma,Coffey,Fianna Fail,Louth,Female
+Dara,Callaeary,Fianna Fail,Mayo,Male
+Lisa,Chambers,Fianna Fail,Mayo,Female
+Thomas,Byrne,Fianna Fail,Meath East,Male
+Shane,Cassells,Fianna Fail,Meath West,Male
+Barry,Cowen,Fianna Fail,Offaly,Male
+Eddie,Fitzpatrick,Fianna Fail,Offaly,Male
+Shane,Curran,Fianna Fail,Roscommon-Galway,Male
+Eugene,Murphy ,Fianna Fail,Roscommon-Galway,Male
+Marc,MacSharry,Fianna Fail,Sligo-Leitrim,Male
+Paddy,O'Rourke,Fianna Fail,Sligo-Leitrim,Male
+Eamon,Scanlon,Fianna Fail,Sligo-Leitrim,Male
+Siobhan,Ambrose,Fianna Fail,Tipperary,Female
+Jackie,Cahill,Fianna Fail,Tipperary,Female
+Michael,Smith,Fianna Fail,Tipperary,Male
+Mary ,Butler,Fianna Fail,Waterford,Female
+James,Browne,Fianna Fail,Wexford,Male
+Aoife,Byrne,Fianna Fail,Wexford,Female
+Malcolm,Byrne,Fianna Fail,Wexford,Male
+Path,Casey,Fianna Fail,Wicklow,Male
+Jennifer,Cuffe,Fianna Fail,Wicklow,Female
+Keith,Gilligan,Independents,Carlow-Kilkenny,Male
+Paddy,Manning,Independents,Carlow-Kilkenny,Male
+Noel G,Walsh,Independents,Carlow-Kilkenny,Male
+Sean,Conlan,Independents,Cavan-Monaghan,Male
+Jimmy,Mee,Independents,Cavan-Monaghan,Male
+Emmet,Smith,Independents,Cavan-Monaghan,Male
+Mary,Smyth,Independents,Cavan-Monaghan,Female
+John,Wilson,Independents,Cavan-Monaghan,Male
+Richard,Flynn,Independents,Clare,Male
+Michael,Harty,Independents,Clare,Male
+Ian,Lynch,Independents,Clare,Male
+Dermot,Mulqueen,Independents,Clare,Male
+Ann,Norton,Independents,Clare,Female
+Andre Sibo,Hakizimana,Independents,Clare,Male
+Paddy,Bullman,Independents,Cork East,Male
+Ross,Cannon,Independents,Cork East,Male
+Claire,Cullinane,Independents,Cork East,Female
+Mary,Linehan Foley,Independents,Cork East,Female
+Kieran,McCarthy,Independents,Cork East,Male
+Ger,Keohane,Independents,Cork North Central,Male
+Mick,Murphy,Independents,Cork North Central,Male
+Peter,O'Loughlin,Independents,Cork North Central,Male
+Diarmuid,O'Flynn,Independents,Cork North West,Male
+Steven,O'Riordan,Independents,Cork North West,Male
+John Paul,O'Shea,Independents,Cork North West,Male
+Mick,Finn,Independents,Cork South Central,Male
+Joe,Harris,Independents,Cork South Central,Male
+Elizabeth,Hourihane,Independents,Cork South Central,Female
+Alan,Coleman,Independents,Cork South West,Male
+Michael,Collins,Independents,Cork South West,Male
+Fiora,O'Leary,Independents,Cork South West,Female
+Gillian,Powell,Independents,Cork South West,Male
+Peter,Casey,Independents,Donegal,Male
+Tim,Jackson,Independents,Donegal,Male
+Niamh,Kennedy,Independents,Donegal,Female
+Frank,McBrearty,Independents,Donegal,Male
+Ian,McGarvey,Independents,Donegal,Male
+Michael,Mooney,Independents,Donegal,Male
+Thomas,Pringle,Independents,Donegal,Male
+Dessie,Shiels,Independents,Donegal,Female
+Christy,Burke,Independents,Dublin Central,Male
+William D.J.,Gorman,Independents,Dublin Central,Male
+Kerry,Guinan,Independents,Dublin Central,Male
+Maureen,O'Sullivan,Independents,Dublin Central,Female
+Cieran,Perry,Independents,Dublin Central,Male
+Patrick,Akpoveta,Independents,Dublin Mid West,Male
+Paul,Gogarty,Independents,Dublin Mid West,Male
+Haroon,Khan,Independents,Dublin Mid West,Male
+Clare,Leonard,Independents,Dublin Mid West,Female
+Francis,Timmons,Independents,Dublin Mid West,Male
+Marcus,de Brun,Independents,Dublin Fingal,Male
+Clare,Daly,Independents,Dublin Fingal,Female
+Roslyn,Fuller,Independents,Dublin Fingal,Female
+Tony,Murphy,Independents,Dublin Fingal,Male
+Fergal,O'Connell,Independents,Dublin Fingal,Male
+Tommy,Broughan,Independents,Dublin Bay North,Male
+Paul,Clarke,Independents,Dublin Bay North,Male
+Jimmy,Guerin,Independents,Dublin Bay North,Male
+Finan,McGrath,Independents,Dublin Bay North,Male
+Prionsias,O Conarain,Independents,Dublin Bay North,Male
+Damien ,O'Neil,Independents,Dublin Bay North,Male
+Averil,Power,Independents,Dublin Bay North,Male
+Mannix,Flynn,Independents,Dublin Bay South,Male
+William D.J.,Gorman,Independents,Dublin Bay South,Male
+John Dominic,Keigher,Independents,Dublin Bay South,Male
+Alan,MacStriofain,Independents,Dublin Bay South,Male
+Eoin,Tierney,Independents,Dublin Bay South,Male
+Bernie ,Hughes,Independents,Dublin North West,Female
+Peter,Mathews,Independents,Dublin Rathdown,Male
+Patrick,O'Connell,Independents,Dublin Rathdown,Male
+Shane,Ross,Independents,Dublin Rathdown,Male
+Joan,Collins,Independents,Dublin South Central,Female
+Paul,Hand,Independents,Dublin South Central,Male
+Richard,Murray,Independents,Dublin South Central,Male
+Declan,Burke,Independents,Dublin South West,Male
+Peter,Fitzpatrick,Independents,Dublin South West,Male
+Eamonn,Maloney,Independents,Dublin South West,Male
+Deidre,O'Donovan,Independents,Dublin South West,Female
+Frank,O'Gorman,Independents,Dublin South West,Male
+Kieran Adam,Quigley,Independents,Dublin South West,Male
+Joan,Summerville-Molloy,Independents,Dublin South West,Male
+Katherine,Zappone,Independents,Dublin South West,Female
+Dermot,Casey,Independents,Dublin West,Male
+T.J,Clare,Independents,Dublin West,Male
+David,McGuinness,Independents,Dublin West,Male
+Lorna,Nolan,Independents,Dublin West,Female
+Carol,Hunt,Independents,Dun Laoghaire,Male
+Sean,Canney,Independents,Galway East,Male
+Michael,Fahy,Independents,Galway East,Male
+James,Charity,Independents,Galway West,Male
+Catherine,Connolly,Independents,Galway West,Female
+Mike,Cubbard,Independents,Galway West,Male
+Noel  ,Grealish,Independents,Galway West,Male
+Fidelma,Healy-Eames,Independents,Galway West,Female
+Tommy,Roddy,Independents,Galway West,Male
+Mary E.,Fitzgibbon,Independents,Kerry,Female
+Henry,Gaynor,Independents,Kerry,Male
+Danny,Healy-Rae,Independents,Kerry,Male
+Michael,Healy-Rae,Independents,Kerry,Male
+Kevin,Murphy,Independents,Kerry,Male
+Michael,O'Gorman,Independents,Kerry,Male
+Michael,Beirne,Independents,Kildare North,Male
+Gerdard,Dunne,Independents,Kildare North,Male
+Elizabeth,O'Sullivan,Independents,Kildare North,Female
+Brendan,Young,Independents,Kildare North,Male
+Declan,Crowe,Independents,Kildare South,Male
+Desmond,Hayes,Independents,Limerick City,Male
+Denis,Riordan,Independents,Limerick City,Male
+Emmett,O'Brien,Independents,Limerick City,Male
+Richard,O'Donoghue,Independents,Limerick City,Male
+John,O'Gorman,Independents,Limerick City,Male
+Brian,Fagan,Independents,Longford-Westmeath,Male
+Donal,Jackson,Independents,Longford-Westmeath,Male
+Frank,Kilbride,Independents,Longford-Westmeath,Male
+James,Miller,Independents,Longford-Westmeath,Male
+Kevin,Moran,Independents,Longford-Westmeath,Male
+James,Morgan,Independents,Longford-Westmeath,Male
+Mae,Sexton,Independents,Longford-Westmeath,Female
+Barbara,Smyth,Independents,Longford-Westmeath,Female
+David,Bradley,Independents,Louth,Male
+Kevin,Callan,Independents,Louth,Male
+Maeve,Yore,Independents,Louth,Female
+Jerry,Cowley,Independents,Mayo,Male
+Sean,Forkan,Independents,Mayo,Male
+Peter,Jordan,Independents,Mayo,Male
+Stephen,Manning,Independents,Mayo,Male
+Gerry,O'Boyle,Independents,Mayo,Male
+George,O'Malley,Independents,Mayo,Male
+Kamal,Uddin,Independents,Mayo,Male
+Joe,Bonner,Independents,Meath East,Male
+Sharon,Keogan,Independents,Meath East,Female
+Trevor,Golden,Independents,Meath West,Male
+John,Malone ,Independents,Meath West,Male
+Kate,Bopp,Independents,Offaly,Female
+John,Foley,Independents,Offaly,Male
+Joe,Hannigan,Independents,Offaly,Male
+Terese,Ryan-Feehan,Independents,Offaly,Female
+Tony,Coleman,Independents,Roscommon-Galway,Male
+Thomas Declan,Fallon,Independents,Roscommon-Galway,Male
+Michael,Fitzmaurice,Independents,Roscommon-Galway,Male
+Denis,Naughten,Independents,Roscommon-Galway,Male
+Declan,Bree,Independents,Sligo-Leitrim,Male
+Marie,Casserly,Independents,Sligo-Leitrim,Female
+Des,Guckian,Independents,Sligo-Leitrim,Male
+Bernie ,O'Hara,Independents,Sligo-Leitrim,Female
+Eamon ,Murray,Independents,Sligo-Leitrim,Male
+Gary,Smylie,Independents,Sligo-Leitrim,Male
+Bernard,Sweeney,Independents,Sligo-Leitrim,Male
+Michael,Dillon,Independents,Tipperary,Male
+Michael ,Lowry,Independents,Tipperary,Male
+Mattie,McGrath,Independents,Tipperary,Male
+Shiekh M,Ahmed,Independents,Waterford,Male
+John,Halligan,Independents,Waterford,Male
+John,Walsh,Independents,Waterford,Male
+Breda,Cahil,Independents,Wexford,Female
+Ger,Carthy,Independents,Wexford,Male
+Caroline,Foxe,Independents,Wexford,Female
+Emmet,Moloney,Independents,Wexford,Male
+Paul,O'Hanlon,Independents,Wexford,Male
+Joe,Behan,Independents,Wicklow,Male
+Bob,Kearns,Independents,Wicklow,Male
+Charlie,Keddy,Independents,Wicklow,Male
+Ann,Phelan,Labour,Carlow-Kilkenny,Female
+Michael,McNamara,Labour,Clare,Male
+Sean,Sherlock,Labour,Cork East,Male
+Kathleen,Lynch,Labour,Cork North Central,Female
+Ciaran,Lynch,Labour,Cork South Central,Male
+Michael,McCarthy,Labour,Cork South West,Male
+Joe,Costello,Labour,Dublin Central,Male
+Joanna,Tuffy,Labour,Dublin Mid West,Female
+John,Lyons,Labour,Dublin North West,Male
+Brendan,Ryan,Labour,Dublin Fingal,Male
+Alex,White,Labour,Dublin Rathdown,Female
+Aodhan,O Riordain,Labour,Dublin Bay North,Male
+Kevin,Humphries,Labour,Dublin Bay South,Male
+Eric,Byrne,Labour,Dublin South Central,Male
+Mick,Duff,Labour,Dublin South West,Male
+Pamela,Kearns,Labour,Dublin South West,Female
+Joan ,Burton,Labour,Dublin West,Female
+Carrie,Smyth,Labour,Dun Laoghaire,Female
+Lorraine,Higgins,Labour,Galway East,Female
+Derek,Nolan,Labour,Galway West,Male
+Arthur,Spring,Labour,Kerry,Male
+Emmett,Stagg,Labour,Kildare North,Male
+Mark,Wall,Labour,Kildare South,Male
+John,Whelan,Labour,Laois,Male
+Jan,O'Sullivan,Labour,Limerick City,Male
+Willie,Penrose,Labour,Longford-Westmeath,Male
+Mary,Moran,Labour,Louth,Female
+Gerald,Nash,Labour,Louth,Male
+Dominic,Hannigan,Labour,Meath East,Male
+John,Kelly,Labour,Roscommon-Galway,Male
+Susan,O'Keeffe,Labour,Sligo-Leitrim,Female
+Alan,Kelly,Labour,Tipperary,Male
+Ciaran,Conway,Labour,Waterford,Male
+Brendan,Howlin,Labour,Wexford,Male
+Anne,Ferris,Labour,Wicklow,Female
+Kathleen,Funchion,Sinn Fein,Carlow-Kilkenny,Female
+Caoimhghin,O Caolain,Sinn Fein,Cavan-Monaghan,Male
+Kathryn,Reilly,Sinn Fein,Cavan-Monaghan,Female
+Noeleen,Moran,Sinn Fein,Clare,Female
+Pat,Buckley,Sinn Fein,Cork East,Male
+Thomas,Gould,Sinn Fein,Cork North Central,Male
+Jonathan,O'Brien,Sinn Fein,Cork North Central,Male
+Nigel,Dennehy,Sinn Fein,Cork North West,Male
+Donnchadh,O Laoghaire,Sinn Fein,Cork South Central,Male
+Rachel,McCarthy,Sinn Fein,Cork South West,Female
+Gary,Doherty,Sinn Fein,Donegal,Male
+Pearse ,Doherty,Sinn Fein,Donegal,Male
+Padraig,MacLochlainn,Sinn Fein,Donegal,Male
+Mary Lou,McDonald,Sinn Fein,Dublin Central,Female
+Eoin,O Broin,Sinn Fein,Dublin Mid West,Male
+Louise,O'Reilly,Sinn Fein,Dublin Fingal,Female
+Michael,MacDonncha,Sinn Fein,Dublin Bay North,Male
+Denise,Mitchell,Sinn Fein,Dublin Bay North,Female
+Cathleen,Carney Boud,Sinn Fein,Dublin North West,Female
+Dessie,Ellis,Sinn Fein,Dublin North West,Female
+Sorcha ,Cormaic,Sinn Fein,Dublin Rathdown,Female
+Maire,Devine,Sinn Fein,Dublin South Central,Female
+Aengus,O Snodaigh,Sinn Fein,Dublin South Central,Male
+Chris,Andrews,Sinn Fein,Dublin Bay South,Male
+Sean,Crowe,Sinn Fein,Dublin South West,Male
+Sarah,Holland,Sinn Fein,Dublin South West,Female
+Paul,Donnelly,Sinn Fein,Dublin West,Male
+Shane,O'Brien,Sinn Fein,Dun Laoghaire,Male
+Annemarie,Roche,Sinn Fein,Galway East,Female
+Trevor,O Clochartaigh,Sinn Fein,Galway West,Male
+Martin,Ferris,Sinn Fein,Kerry,Male
+Reada,Cronin,Sinn Fein,Kildare North,Female
+Patricia,Ryan,Sinn Fein,Kildare South,Female
+Brian,Stanley,Sinn Fein,Laois,Male
+Caroll,Nolan,Sinn Fein,Offaly,Female
+Maurice,Quinlivan,Sinn Fein,Limerick City,Male
+Seamus,Browne,Sinn Fein,Limerick City,Male
+Paul,Hogan,Sinn Fein,Longford-Westmeath,Male
+Gerry,Adams,Sinn Fein,Louth,Male
+Imelda,Munster,Sinn Fein,Louth,Female
+Rose,Conway-Walsh,Sinn Fein,Mayo,Female
+Darren,O'Rourke,Sinn Fein,Meath East,Male
+Peadar,Toibin,Sinn Fein,Meath West,Male
+Claire,Kerrane,Sinn Fein,Roscommon-Galway,Female
+Martin,Kenny,Sinn Fein,Sligo-Leitrim,Male
+Chris,MacManus,Sinn Fein,Sligo-Leitrim,Male
+Seamus,Morris,Sinn Fein,Tipperary,Male
+David,Cullinane,Sinn Fein,Waterford,Male
+Johnny,Mythen,Sinn Fein,Wexford,Male
+John,Brady,Sinn Fein,Wicklow,Male
+Conor,MacLiam,Anti-Austerity,Carlow-Kilkenny,Male
+Adrienne,Wallace,Anti-Austerity,Carlow-Kilkenny,Female
+Ciara ,Leonardi Roche,Anti-Austerity,Cork East,Female
+Mick,Barry,Anti-Austerity,Cork North Central,Male
+Jim,O'Connell,Anti-Austerity,Cork South Central,Male
+Fiona,Ryan,Anti-Austerity,Cork South Central,Female
+John,Lyons,Anti-Austerity,Dublin Bay North,Male
+Michael,O'Brien,Anti-Austerity,Dublin Bay North,Male
+Diana,O'Dwyer,Anti-Austerity,Dublin Central,Female
+Barry,Martin,Anti-Austerity,Dublin Fingal,Male
+Terry,Kelleher,Anti-Austerity,Dublin Fingal,Male
+Gino,Kenny,Anti-Austerity,Dublin Mid West,Male
+Andrew,Keegan,Anti-Austerity,Dublin North West,Male
+Brid,Smith,Anti-Austerity,Dublin South Central,Female
+Sandra,Fay,Anti-Austerity,Dublin South West,Female
+Paul,Murphy,Anti-Austerity,Dublin South West,Male
+Ruth,Coppinger,Anti-Austerity,Dublin West,Female
+Richard,Boyd Barret,Anti-Austerity,Dun Laoghaire,Male
+Tommy,Holohan,Anti-Austerity,Galway West,Male
+Brian,Finucane,Anti-Austerity,Kerry,Male
+Ashling,Merriman,Anti-Austerity,Kildare North,Female
+Cian,Prendiville,Anti-Austerity,Limerick City,Male
+Dom,Parker,Anti-Austerity,Longford-Westmeath,Male
+Gareth,Weldon,Anti-Austerity,Louth,Male
+Tom ,Moran,Anti-Austerity,Mayo,Male
+Eddie,Conroy,Anti-Austerity,Roscommon-Galway,Male
+Nigel,Gallagher,Anti-Austerity,Sligo-Leitrim,Male
+Una,Dunphy,Anti-Austerity,Waterford,Female
+Deidre,Wadding,Anti-Austerity,Wexford,Female
+Sharon ,Briggs,Anti-Austerity,Wicklow,Female
+Anna,Doyle,Anti-Austerity,Wicklow,Female
+Patrick,McKee,Renua Ireland,Carlow-Kilkenny,Male
+Paul,Bradford,Renua Ireland,Cork East,Male
+Paddy,O'Leary,Renua Ireland,Cork North Central,Male
+Jason,Fitzgerald,Renua Ireland,Cork North West,Male
+Ciaran,Kenneally,Renua Ireland,Cork South Central,Male
+Terence,Flanagan,Renua Ireland,Dublin Bay North,Male
+Lucinda,Creighton,Renua Ireland,Dublin Bay South,Female
+Jacqui,Gilbourne,Renua Ireland,Dublin Central,Female
+Gerry,Molloy,Renua Ireland,Dublin Fingal,Male
+Alan,Daveron,Renua Ireland,Dublin Rathdown,Male
+Michael,Gargan,Renua Ireland,Dublin South Central,Male
+Ronan,McMahon,Renua Ireland,Dublin South West,Male
+Jo,O'Brien,Renua Ireland,Dublin West,Female
+Frank,Cronin,Renua Ireland,Dun Laoghaire,Male
+Nicola,Daveron,Renua Ireland,Galway West,Female
+Donal,Corcoran,Renua Ireland,Kerry,Male
+Shane,Fitzgerald,Renua Ireland,Kildare North,Male
+Mary,Kennedy,Renua Ireland,Kildare South,Female
+Michael,O'Dowd,Renua Ireland,Louth,Male
+Michael,Farrington,Renua Ireland,Mayo,Male
+Sarah,Tyrell,Renua Ireland,Meath East,Female
+John,Leahy,Renua Ireland,Offaly,Male
+Anne,Farrell,Renua Ireland,Roscommon-Galway,Female
+Finbar,Filan,Renua Ireland,Sligo-Leitrim,Male
+Mailo,Power,Renua Ireland,Waterford,Female
+Billy,Timmins,Renua Ireland,Wicklow,Male
+Ken,Curtin,Social Democrats,Cork East,Male
+Cian,O'Callaghan,Social Democrats,Dublin Bay North,Male
+Gleanna,Lynch,Social Democrats,Dublin Bay South,Female
+Gary,Gannon,Social Democrats,Dublin Central,Male
+Anne-Marie,McNally,Social Democrats,Dublin Mid West,Female
+Roisin,Shortall,Social Democrats,Dublin North West,Female
+Liam,Coyne,Social Democrats,Dublin South Central,Male
+Niall,O Tuathail,Social Democrats,Galway West,Male
+Catherine,Murphy,Social Democrats,Kildare North,Female
+Sarah-Jane,Hennelly,Social Democrats,Limerick City,Female
+James,Heffernan,Social Democrats,Limerick City,Male
+Aisling,O'Neil,Social Democrats,Meath East,Female
+Leonard,Kelly,Social Democrats,Wexford,Male
+Stephen,Donnelly,Social Democrats,Wicklow,Male
+Malcolm,Noonan,Green Party,Carlow-Kilkenny,Male
+Michael,Callaghan,Green Party,Cavan-Monaghan,Male
+Fergal,Smith,Green Party,Clare,Male
+Natasha,Harty,Green Party,Cork East,Female
+Oliver,Moran,Green Party,Cork North Central,Male
+Cormac,Manning,Green Party,Cork North West,Male
+Lorna,Bogue,Green Party,Cork South Central,Female
+Johnny,O'Mahony,Green Party,Cork South West,Male
+Paula,Planagan,Green Party,Donegal,Female
+Ian Noel,Smyth,Green Party,Dublin Central,Male
+Joe,O'Brien,Green Party,Dublin Fingal,Male
+Catherine,Martin,Green Party,Dublin Rathdown,Female
+Donna,Cooney,Green Party,Dublin Bay North,Female
+Eamon,Ryan,Green Party,Dublin Bay South,Female
+Tom,Kivlehan,Green Party,Dublin Mid West,Male
+Caroline,Conroy,Green Party,Dublin North West,Female
+Oisin,O Halmhain,Green Party,Dublin South Central,Male
+Francis,Duffy,Green Party,Dublin South West,Male
+Roderic,O'Gorman,Green Party,Dublin West,Male
+Ossian,Smyth,Green Party,Dun Laoghaire,Male
+Mairead,Ni Chroinin,Green Party,Galway East,Female
+Seamus,Sheridan,Green Party,Galway West,Male
+Michael,Fitzgerald,Green Party,Kerry,Male
+Maebh ,Ni Fhalluin,Green Party,Kildare North,Female
+Suzanne,McEneaney,Green Party,Kildare South,Female
+Sinead,Moore,Green Party,Laois,Female
+Alexander,Cosgrave,Green Party,Limerick City,Male
+James,Gaffney,Green Party,Limerick City,Male
+Manchan,Magan,Green Party,Longford-Westmeath,Male
+Mark,Dearey,Green Party,Louth,Male
+Margaret,Sheehan,Green Party,Mayo,Female
+Sean ,O Buachalla,Green Party,Meath East,Male
+Seamus,McMenamin,Green Party,Meath West,Male
+Christopher,Fettes,Green Party,Offaly,Male
+Gearoid,Fitzgibbon,Green Party,Tipperary,Male
+Miriam,Hennessy,Green Party,Roscommon-Galway,Female
+Leslie,O'Hora,Green Party,Sligo-Leitrim,Female
+Grace,O'Sullivan,Green Party,Waterford,Female
+Ann,Walsh,Green Party,Wexford,Female
+Steven,Matthews,Green Party,Wicklow,Male
+Ken,Smollen,Irish Democratic Party,Offaly,Male
+Ted,Tynan,Workers Party,Cork North Central,Male
+Eilis,Ryan,Workers Party,Dublin Central,Female
+Lorraine,Hennessy,Workers Party,Dublin Mid West,Female
+Jimmy,Dignam,Workers Party,Dublin North West,Male
+Seamus,MacDonagh,Workers Party,Meath East,Male
