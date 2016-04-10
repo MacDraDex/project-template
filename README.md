@@ -1,8 +1,8 @@
 # Irish Constituencies Neo4j Database
-###### Student name, G00123456
+###### Maciej Drabik, G00277045
 
 ## Introduction
-Give a summary here of what your project is about.
+This is a graph database which is representing the constituencies of Ireland and all candidates who run in them. This is a project for a module Graph Theory.  
 
 ## Database
 Explain how you created your database, and how information is represented in it.
